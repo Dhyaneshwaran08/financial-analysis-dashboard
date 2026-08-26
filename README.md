@@ -1,11 +1,13 @@
 # Financial Analysis Dashboard
 
-An interactive Financial Analysis Dashboard developed to analyze business performance through sales, profit, cost, orders, regional performance, customer insights, and salesperson performance.
+An interactive Financial Analysis Dashboard created using Microsoft Excel to analyze sales, profit, cost, orders, and overall business performance.
 
 ## Tools Used
 
-- Power BI
-- DAX
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Excel Formulas
 - Data Analysis
 - Data Visualization
 
@@ -13,10 +15,10 @@ An interactive Financial Analysis Dashboard developed to analyze business perfor
 
 - Sales and profit performance analysis
 - Cost and order analysis
-- Region-wise and city-wise performance analysis
+- Region-wise performance analysis
 - Customer and salesperson analysis
 - Payment method analysis
-- KPI tracking and interactive visualizations
+- Interactive KPI tracking and visualizations
 
 ## Dashboard Preview
 
@@ -24,4 +26,4 @@ An interactive Financial Analysis Dashboard developed to analyze business perfor
 
 ## Project Insights
 
-The dashboard helps identify business trends and performance patterns by transforming raw data into interactive visualizations and meaningful insights. It supports data-driven decision-making through KPI tracking and detailed performance analysis.
+The dashboard transforms raw business data into meaningful insights using Excel-based analysis and interactive visualizations. It helps identify sales trends, profit performance, regional patterns, and customer insights to support better business decision-making.
